@@ -1,0 +1,401 @@
+0	Abby
+1	Al
+2	Al Kostelic
+3	Al Minser
+4	Al Pacino
+5	Alan
+6	Albert Einstein
+7	Alex
+8	All
+9	Amber
+10	Amger
+11	Andie McDowell
+12	Andr
+13	Andre
+14	Andrea
+15	Andrea's friend
+16	Andrew
+17	Angela Delvecchio
+18	Annabelle
+19	Artelle
+20	Ashley
+21	Aunt Edna
+22	Aunt Iris
+23	Aunt Lillian
+24	Aunt Phyllis
+25	Aunt Syl
+26	Aurora
+27	Avery
+28	Barbara
+29	Barry
+30	Ben
+31	Bernie Spellman
+32	Best Man
+33	Bethel
+34	Betty
+35	Big Bully
+36	Bill Clinton
+37	Bill Dreskin's father
+38	Billy Dreskin
+39	Bing
+40	Bishop Tutu
+41	Black Bart
+42	Bob
+43	Bobby Rush
+44	Boss Man Bing
+45	Brad
+46	Braverman
+47	Brent Mussberger
+48	Brian
+49	Brittany
+50	Carl
+51	Carol Willick
+52	Carol and Susan's caterer
+53	Carol's grandmother
+54	Caroline
+55	Casey
+56	Casting Guy
+57	Cathy Bates
+58	Celia
+59	Chandler Bing
+60	Chandler's date
+61	Chandler's date's husband
+62	Chandler's date's husband's secretary
+63	Chandler's ex-girlfriend
+64	Chandler's girlfriend
+65	Chandler's imaginary friend
+66	Chandler's secretary
+67	Charles Bing
+68	Chrissy
+69	Christine
+70	Coma Guy
+71	Customer
+72	Damone
+73	Dan
+74	Dana
+75	Danielle
+76	Danny Arshak
+77	Daryl Hannah
+78	Dave Thomas
+79	David Hasselhof
+80	Deb
+81	Debbie
+82	Debra
+83	Dee
+84	Demi Moore
+85	Denise DeMarco
+86	Dick Clark
+87	Dillon
+88	Director
+89	Director's Assistant
+90	Donna Reid
+91	Dorothy
+92	Dr. Baldhara
+93	Dr. Bazida
+94	Dr. Drake Remoray
+95	Dr. Flanen
+96	Dr. Franzblau
+97	Dr. Horton
+98	Dr. Mitchell
+99	Dr. Oberman
+100	Dr. Remore
+101	Dr. Rosen
+102	Dr. Wong
+103	Drew Barrymore
+104	Dudley Moore
+105	Duncan
+106	Ed
+107	Ed Begley
+108	Eddie
+109	Eddie Minowick
+110	Eddie Moskowitz
+111	Eddie's ex-girlfriend
+112	Eddie's previous roommate
+113	Emma
+114	Eric Estrada
+115	Eric Prower
+116	Erica Ford
+117	Ernest Borgnine
+118	Err
+119	Error
+120	Estelle
+121	Estelle Leonard
+122	Esther Livingston
+123	Ethan
+124	Evelyn Dermer
+125	Ewing
+126	Fake Monica
+127	Fleischman
+128	Flench
+129	Flight Attendant
+130	Florence Henderson
+131	Foghorn Leghorn
+132	Frank Buffay
+133	Frankie
+134	Frannie
+135	Freud
+136	Fun Bobby
+137	Gail
+138	George
+139	George Bailey
+140	George Stephanopoulos
+141	Girl
+142	Girls
+143	Gloria Tribbiani
+144	Grandmother
+145	Gunther
+146	Guy
+147	Guy 1
+148	Guys
+149	Hannibal Lecter
+150	Helen
+151	Henry
+152	Hombre Man
+153	Howard
+154	Huey Lewis
+155	Hugh Grant
+156	Ingrid Bergman
+157	Intercom
+158	Interviewer
+159	Ive
+160	Jack
+161	Jack 1
+162	Jack 2
+163	Jack Geller
+164	Jade
+165	James Bond
+166	Jamie
+167	Jane
+168	Janice
+169	Janitor
+170	Jason Costalano
+171	Jason Hurley
+172	Jay Leno
+173	Jeannie
+174	Jill
+175	Jill Goodacre
+176	Jill Green
+177	Jill's mom
+178	Jim Crochee
+179	Jimmy Hauser
+180	Joan Collins
+181	Joanne
+182	Joanne's father
+183	Joey Tribbiani
+184	Joey Tribbiani Sr.
+185	Joey's Co-star
+186	Joey's cousin
+187	Joey's date
+188	Joey's date's friend
+189	Joey's tailor
+190	John Savage
+191	John Voit
+192	Johnny Shapiro
+193	Jordie
+194	Joseph Stalin
+195	Judy Geller
+196	Judy Jetson
+197	Julie
+198	Julie's friend
+199	Karen
+200	Kid
+201	Kip
+202	Kristin
+203	Laurie Schaffer
+204	Leon
+205	Leonard Green
+206	Leroy
+207	Leslie
+208	Liam Neeson
+209	Lifson
+210	Lily Buffay
+211	Linda
+212	Lipson
+213	Little Bully
+214	Lizzie
+215	Lola
+216	Lori
+217	Lorne Green
+218	Lorraine
+219	Lowell
+220	Luisa
+221	Luisa's supervisor
+222	Lydia
+223	Lydia's baby
+224	Lydia's husband
+225	Lydia's mom
+226	Malibu Ken
+227	Man
+228	Man 1
+229	Man 2
+230	Marcel
+231	Marcel Marceau
+232	Mark
+233	Marsha
+234	Marty
+235	Mary Tyler Moore
+236	Max
+237	Melanie
+238	Messier
+239	Michael
+240	Michelle
+241	Milton
+242	Mindy
+243	Mira
+244	Miss Buffay
+245	Miss Crankypants
+246	Miss Kitty
+247	Moncia
+248	Monica Geller
+249	Monica's ex-boyfriend
+250	Monica's grandmother
+251	Morly Safer
+252	Mother Theresa
+253	Mover
+254	Mr. Adelman
+255	Mr. Clean
+256	Mr. Douglas
+257	Mr. Greene
+258	Mr. Heckles
+259	Mr. Peanut
+260	Mr. Ratstatter
+261	Mr. Roger
+262	Mr. Roper
+263	Mr. Salty
+264	Mr. Treeger
+265	Mr. Tribbiani
+266	Mr. Wineburg
+267	Mrs. Adelman
+268	Mrs. Bing
+269	Mrs. Buffay
+270	Mrs. Cobb
+271	Mrs. Geller
+272	Mrs. Green
+273	Mrs. Greene
+274	Mrs. Tribbiani
+275	Mrs. Wallace
+276	Mrs. Wallace's sister
+277	Mrs. Wineburg
+278	Ms. Thomas
+279	Nathan
+280	Nina Bookbinder
+281	Norman Mailer
+282	Nurse
+283	Paolo
+284	Paul
+285	Paul's ex-girlfriend
+286	Paula
+287	Paulo
+288	Person 1
+289	Person 2
+290	Pete
+291	Pete Carney
+292	Phoebe Buffay
+293	Phoebe and Rachel
+294	Phoebe's Assistant
+295	Phoebe's Friends
+296	Phoebe's boyfriend
+297	Phoebe's date
+298	Phoebe's friend
+299	Phoebe's grandmother
+300	Phoebe's grandmother's boyfriend
+301	Phoebe's hairdresser
+302	Phoebe's stepfather
+303	Phoebe, Joey, and Ross
+304	Pizza Guy
+305	Producer
+306	Rachel Green
+307	Rachel and Phoebe
+308	Rachel's date
+309	Rachel's friend
+310	Rachel's interviewer
+311	Rachel's interviewer's cousin
+312	Rachel's sister
+313	Radio
+314	Ramone
+315	Randy Brown
+316	Receptionist
+317	Richard
+318	Richard Burke
+319	Richard's son
+320	Rick
+321	Rob
+322	Rob Dohnen
+323	Rob Roy
+324	Robbie
+325	Robert Pillman
+326	Rod Steiger
+327	Rodney McDowell
+328	Rodrigo
+329	Roger
+330	Roland
+331	Rona
+332	Ronni Rappelano
+333	Rose
+334	Rose Marie
+335	Ross Geller
+336	Ross' date
+337	Ross' grandmother
+338	Russ
+339	Ryan
+340	Sandra Green
+341	Sandy
+342	Scott Alexander
+343	Security Guard
+344	Shannon Cooper
+345	Shelley
+346	Shirley
+347	Sidney Marks
+348	Silvian
+349	Soupy Sales
+350	Spike Lee
+351	Stacy Roth
+352	Steffi Graf
+353	Stella Niedman
+354	Stephanie
+355	Steve
+356	Store Guy
+357	Stranger
+358	Susan Bunch
+359	Susan Sallidor
+360	Susie
+361	Tanya
+362	Tattoo Artist
+363	Teacher
+364	Terry
+365	The Guys
+366	The Whole Party
+367	Tilly
+368	Tina
+369	Tina's husband
+370	Toby
+371	Tommy Rollerson
+372	Tony
+373	Tony DeMarco
+374	Tony Randall
+375	Tova Borgnine
+376	Tracy
+377	Trainer
+378	Travis
+379	Tso
+380	Ugly Naked Guy
+381	Uma Thurman
+382	Uncle Freddie
+383	Uncle Sal
+384	Uncle Sal's wife
+385	Underdog
+386	Unknown
+387	Ursula
+388	Van Damme
+389	Vidal Buffay
+390	Waiter
+391	Waitress
+392	Warren Beatty
+393	Wedding Planner
+394	Wendy
+395	Weve
+396	Woman
+397	Woman 1
+398	Yamaguchi
+399	Yasmine Blepe
+400	Young Ethan
