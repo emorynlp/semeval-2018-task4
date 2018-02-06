@@ -19,10 +19,6 @@ For the following example, the mention "mom" is not one of the speakers; nonethe
 * [Jinho D. Choi](http://www.mathcs.emory.edu/~choi) (Emory University).
 * [Henry Y. Chen](http://henryyhc.info) (Snap Inc.).
 
-## CodaLab
-
-This task was hosted at CodaLab from 08/21/2017 to 01/29/2018: [https://competitions.codalab.org/competitions/17310](https://competitions.codalab.org/competitions/17310).
-
 ## Datasets
 
 The first two seasons of the TV show Friends are annotated for this task. 
@@ -33,8 +29,8 @@ The followings describe the distributed datasets:
 * [friends.train.scene_delim.conll](dat/friends.train.scene_delim.conll): the training data where each scene is considered a document.
 * [friends.test.episode_delim.conll](dat/friends.test.episode_delim.conll): the test data where each episode is considered a document.
 * [friends.test.scene_delim.conll](dat/friends.test.scene_delim.conll): the test data where each scene is considered a document.
-* [friends.test.episode_delim.conll.nokey](dat/friends.test.episode_delim.conll.nokey): same as [friends.test.episode_delim.conll](dat/friends.test.episode_delim.conll), where the gold keys are replaced by `-1`.
-* [friends.test.scene_delim.conll.nokey](dat/friends.test.scene_delim.conll.nokey): same as [friends.test.scene_delim.conll](dat/friends.test.scene_delim.conll), where the gold keys are replaced by `-1`.
+* [friends.test.episode_delim.conll.nokey](dat/friends.test.episode_delim.conll.nokey): same as [friends.test.episode_delim.conll](dat/friends.test.episode_delim.conll); the gold keys are replaced by `-1`.
+* [friends.test.scene_delim.conll.nokey](dat/friends.test.scene_delim.conll.nokey): same as [friends.test.scene_delim.conll](dat/friends.test.scene_delim.conll); the gold keys are replaced by `-1`.
 
 Note that the evaluation sets did not include the gold keys during the competition; we made them available after the competition.
 No dedicated development set was distributed for this task; feel free to make your own development set for training or perform cross-validation on the training sets.
@@ -100,7 +96,7 @@ A mention may include more than one word:
 /friends-s01e02  0  3  got          VBD             (VP*  get          -  -  Chandler_Bing  *  -
 /friends-s01e02  0  4  a            DT              (NP*  a            -  -  Chandler_Bing  *  -
 /friends-s01e02  0  5  Thighmaster  NN               *))  thighmaster  -  -  Chandler_Bing  *  -
-/friends-s01e02  0  6  !           .                 *))  !            -  -  Chandler_Bing  *  -
+/friends-s01e02  0  6  !            .                *))  !            -  -  Chandler_Bing  *  -
 ```
 
 The mapping between the entity ID and the actual character can be found in [`friends_entity_map.txt`](dat/friends_entity_map.txt).
@@ -133,5 +129,43 @@ The following shows the command to run the [evaluate.py](src/evaluate.py):
 python evaluate.py ref_out sys_out
 ```
 
-* `ref_out`: the reference output including the gold keys: [ref.txt](dat/ref.txt).
+* `ref_out`: the reference output including the gold keys (download [ref.out](dat/ref.out)).
 * `sys_out`: the path to a file containing your system output; this should include 2,429 lines of keys, where each line indicates the entity ID of the corresponding mention.
+
+## Results
+
+This task was hosted at CodaLab from 08/21/2017 to 01/29/2018: [https://competitions.codalab.org/competitions/17310](https://competitions.codalab.org/competitions/17310).
+
+### All Entities + Others
+
+This evaluation considers all characters appearing in training, development, and evaluation sets as individual classes.
+Characters that appear only one or two of these sets are grouped as one class called `OTHERS`.
+
+|User ID | Label Accuracy | Average F1 |
+|:------:|:--------------:|:----------:|
+| AMORE UPF    | **74.72** | **41.05** |
+| Cheoneum     | 68.55 | 13.53 |
+| Kampfpudding | 59.45 | 37.37 |
+| Zuma         | 25.81 | 14.42 |
+ 
+### Main Entities + Others
+
+This evaluation considers 6 main characters as individual classes and all the other characters as one class called `OTHERS`.
+
+|User ID | Label Accuracy | Average F1 |
+|:------:|:--------------:|:----------:|
+| Cheoneum     | **82.13** | **83.37** |
+| AMORE UPF    | 77.23 | 79.36 |
+| Kampfpudding | 73.36 | 73.51 |
+| Zuma         | 46.07 | 43.15 |
+
+### System Outputs + Detailed Evaluation
+
+The system output from all participants as well as their detailed evaluation results.
+
+|User ID | Output | Evaluation |
+|:------:|:------:|:----------:|
+| AMORE UPF    | [AMORE_UPF.out](sys/AMORE_UPF.out)       | [AMORE_UPF.eval](sys/AMORE_UPF.eval) |
+| Cheoneum     | [Cheoneum.out](sys/Cheoneum.out)         | [Cheoneum.eval](sys/Cheoneum.eval) |
+| Kampfpudding | [Kampfpudding.out](sys/Kampfpudding.out) | [Kampfpudding.eval](sys/Kampfpudding.eval) |
+| Zuma         | [Zuma.out](sys/Zuma.out)                 | [Zuma.eval](sys/Zuma.eval) |
