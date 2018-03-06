@@ -7,7 +7,7 @@ Let a mention be a nominal referring to a person (e.g., *she*, *mom*, *Judy*), a
 The goal is to assign each mention to its entity, who may or may not participate in the dialogue. 
 For the following example, the mention "mom" is not one of the speakers; nonetheless, it clearly refers to the specific person, Judy, that could appear in some other dialogue. Identifying such mentions as real characters requires cross-document entity resolution, which makes this task challenging.
 
-![Character Identification Example](img/character-identification-diagram.png)
+![Character Identification Example](http://nlp.mathcs.emory.edu/character-mining/img/character-identification-diagram.png)
 
 ## References
 
