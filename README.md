@@ -144,7 +144,7 @@ Characters that appear only one or two of these sets are grouped as one class ca
 |User ID | Label Accuracy | Average F1 |
 |:------:|:--------------:|:----------:|
 | AMORE UPF    | **74.72** | **41.05** |
-| Cheoneum     | 68.55 | 13.53 |
+| Cheoneum     | 69.49 | 16.98 |
 | Kampfpudding | 59.45 | 37.37 |
 | Zuma         | 25.81 | 14.42 |
  
@@ -154,7 +154,7 @@ This evaluation considers 6 main characters as individual classes and all the ot
 
 |User ID | Label Accuracy | Average F1 |
 |:------:|:--------------:|:----------:|
-| Cheoneum     | **82.13** | **83.37** |
+| Cheoneum     | **85.10** | **86.00** |
 | AMORE UPF    | 77.23 | 79.36 |
 | Kampfpudding | 73.36 | 73.51 |
 | Zuma         | 46.07 | 43.15 |
