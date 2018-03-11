@@ -157,7 +157,7 @@ This evaluation considers 6 main characters as individual classes and all the ot
 | Cheoneum     | **85.10** | **86.00** |
 | AMORE UPF    | 77.23 | 79.36 |
 | Kampfpudding | 73.36 | 73.51 |
-| Zuma         | 46.07 | 43.15 |
+| Zuma AR      | 46.07 | 43.15 |
 
 ### System Outputs + Detailed Evaluation
 
@@ -168,4 +168,4 @@ The system output from all participants as well as their detailed evaluation res
 | AMORE UPF    | [AMORE_UPF.out](sys/AMORE_UPF.out)       | [AMORE_UPF.eval](sys/AMORE_UPF.eval) |
 | Cheoneum     | [Cheoneum.out](sys/Cheoneum.out)         | [Cheoneum.eval](sys/Cheoneum.eval) |
 | Kampfpudding | [Kampfpudding.out](sys/Kampfpudding.out) | [Kampfpudding.eval](sys/Kampfpudding.eval) |
-| Zuma         | [Zuma.out](sys/Zuma.out)                 | [Zuma.eval](sys/Zuma.eval) |
+| Zuma AR      | [Zuma.out](sys/Zuma.out)                 | [Zuma.eval](sys/Zuma.eval) |
