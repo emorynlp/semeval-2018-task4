@@ -9,10 +9,15 @@ For the following example, the mention "mom" is not one of the speakers; nonethe
 
 ![Character Identification Example](http://nlp.mathcs.emory.edu/character-mining/img/character-identification-example.png)
 
+## Citation
+
+* [SemEval 2018 Task 4: Character Identification on Multiparty Dialogues](http://aclweb.org/anthology/S18-1007), Jinho D. Choi and Henry Y. Chen, Proceedings of the International Workshop on Semantic Evaluation, SemEval'18, 57-64, New Orleans, LA, 2018.  
+
+
 ## References
 
 * [Robust Coreference Resolution and Entity Linking on Dialogues: Character Identification on TV Show Transcripts](http://www.aclweb.org/anthology/K/K17/K17-1023.pdf), Henry Y. Chen, Ethan Zhou, and Jinho D. Choi, Proceedings of the 21st Conference on Computational Natural Language Learning, CoNLL'17, 216-225 Vancouver, Canada, 2017.
-* [Character Identification on Multiparty Conversation: Identifying Mentions of Characters in TV Shows](http://www.aclweb.org/anthology/W16-3612), Henry Y. Chen and Jinho D. Choi, Proceedings of the 17th Annual SIGdial Meeting on Discourse and Dialogue, SIGDIAL'16, 90-100 Los Angeles, CA, 2016.
+* [Character Identification on Multiparty Conversation: Identifying Mentions of Characters in TV Shows](http://www.aclweb.org/anthology/W16-3612), Henry Y. Chen and Jinho D. Choi, Proceedings of the 17th Annual SIGdial Meeting on Discourse and Dialogue, SIGDIAL'16, 90-100, Los Angeles, CA, 2016.
 
 ## Organizers
 
